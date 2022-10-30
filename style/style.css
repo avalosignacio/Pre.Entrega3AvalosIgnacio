@@ -72,3 +72,16 @@ h2{
     margin-left: 20%;
 
 }
+
+#p_main{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: 3px;
+
+
+}
+
+p{
+    background-color: rgb(147, 189, 147);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
