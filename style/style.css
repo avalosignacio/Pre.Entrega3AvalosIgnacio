@@ -7,7 +7,7 @@ padding: 0;
 #content_pag{
 display: grid;
 grid-template-columns: 100%;
-grid-template-rows: 200px 50px 1500px 50px;
+grid-template-rows: 200px 50px 950px 50px;
 grid-template-areas:            "header"
                                 "nav"
                                 "main"
@@ -36,7 +36,8 @@ header{
 nav{
 display: flex;
 width: 100%;
-background-color: rgb(114, 173, 109);
+background-color: black;
+
 
 
 }
@@ -55,7 +56,7 @@ font-size: calc( 1px + 2vw);
 
 main{
 
-    background-color: rgb(101, 101, 163);
+    background-color: brown;
 }
 
 #img_main{
@@ -74,14 +75,15 @@ h2{
 }
 
 #p_main{
+width: 100%;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-size: 3px;
+font-size: 20px;
 
 
 }
 
 p{
-    background-color: rgb(147, 189, 147);
+    background-color: rgb(55, 55, 201);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
 }
