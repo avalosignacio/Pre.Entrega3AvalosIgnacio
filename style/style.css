@@ -57,6 +57,7 @@ font-size: calc( 1px + 2vw);
 main{
 
     background-color: brown;
+    
 }
 
 #img_main{
@@ -86,4 +87,16 @@ p{
     background-color: rgb(55, 55, 201);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+}
+
+.card-text{
+
+
+    background-color: rgb(168, 165, 165);
+}
+
+.card-body{
+
+    background-color: rgb(102, 100, 100);
+
 }
